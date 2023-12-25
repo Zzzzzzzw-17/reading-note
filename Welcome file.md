@@ -1,6 +1,10 @@
-# Welcome to StackEdit!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+# API-Assisted Code Generation for Question Answering on Varied Table Structures
+
+- Tables of various structures --> tree --> multi-index pandas representation. 
+- Question+multi-index table header+several rows of content in text format-->python code (via prompting)
+- Extraction question: dataset.loc
+- Reasoning question: Operation API and QA API.
 
 
 # Files
@@ -142,5 +146,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTIwNTkwODQ1ODNdfQ==
 -->
